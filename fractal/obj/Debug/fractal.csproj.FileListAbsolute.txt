@@ -1,0 +1,5 @@
+F:\computing3\adv_softwareEng\fractal\fractal\bin\Debug\fractal.exe.config
+C:\Users\adam\Documents\third\computing3\adv_softwareEng\fractal\fractal\obj\Debug\fractal.csprojResolveAssemblyReference.cache
+C:\Users\adam\Documents\third\computing3\adv_softwareEng\fractal\fractal\obj\Debug\fractal.Properties.Resources.resources
+C:\Users\adam\Documents\third\computing3\adv_softwareEng\fractal\fractal\obj\Debug\fractal.csproj.GenerateResource.Cache
+C:\Users\adam\Documents\third\computing3\adv_softwareEng\fractal\fractal\obj\Debug\fractal.csproj.CoreCompileInputs.cache
